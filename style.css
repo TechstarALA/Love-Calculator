@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+#container {
+    border: 4px solid rgb(212, 76, 99);
+    width: 30vw;
+    height: 40vh;
+    background-color: rgb(243, 212, 217);
+    margin-left: 150px;
+    margin-top: 100px;
+}
+
+#out{
+    margin-top: 80px;
+    
+}
+
+#love{
+    /* margin-left: 50px; */
+    height: 20px;
+    border: none;
+}
+
+#love2{
+    height: 20px;
+    border: none;
+}
+
+button{
+    margin-left: 340px;
+    width: 60px;
+    border-radius: 5px;
+    height: 20px;
+    border: none;
+}
